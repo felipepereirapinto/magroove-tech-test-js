@@ -3,11 +3,12 @@
 
 
 <p align="center">
-  <img alt="app preview" src=".github/preview.png" width="30%">
+  <img alt="app preview" src=".github/preview.png" width="40%">
 </p>
 
 ## 💻 Project
-Simple To-Do list for the Magroove [challenge]('./readme.test.md').
+Simple To-Do list for the Magroove [challenge](./readme.test.md).
+- [Live Version on Netlify](https://magroove-tech-test-js.netlify.app/)
 
 ## 🚀 Technologies
 This project was developed with the following technologies:
