@@ -1,4 +1,4 @@
-<h1 align="center">Magroove Tech Test JavaScript</h1>
+<h1 align="center">Magroove Tech Test React</h1>
 <h3 align="center">To-Do List</h3>
 
 
